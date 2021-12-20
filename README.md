@@ -1,4 +1,3 @@
-# Using-Autoencoder-For-Dimensionality-Reduction-to-Obtain-Higher-Accuracy-in-Pytorch
 Project for Intro to Deep Learning @ IU. Task was to combine two machine learning methods. I combined and autoencoder with a basic feed-forward neural network. Autoencoder was used to reduce dimensions of data, and the ANN was used to make predictions about the data. The use of the Autoencoder led to about a 10% increase in test accuracy.
 
 # Data
